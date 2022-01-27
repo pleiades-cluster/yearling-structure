@@ -1,0 +1,10 @@
+PC104 Holder:	Al 5052/6061		0.063"/1.6mm
+Top Bracket:	Al 5052/6061		0.063"/1.6mm
+X- Face:	Al 5052/6061/7075	0.080"/2.038mm
+X+Y- Corner:	Al 5052/6061		0.032"/0.813mm
+X+Y+ Corner:	Al 5052/6061		0.032"/0.813mm
+X-Y+ Corner:	Al 5052/6061		0.032"/0.813mm
+X-Y- Corner:	Al 5052/6061		0.032"/0.813mm
+Y- Inside:	Al 7075			0.080"/2.038mm
+Y- Outside:	Al 6061/7075		0.080"/2.038mm
+Y+ Outside:	Al 6061/7075		0.080"/2.038mm
