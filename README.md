@@ -1,5 +1,7 @@
 # yearling-structure
-Designed by Ben Narita.
+Designed by Ben, Gavin, Zee, and Gabriella. 
+
+Laser Bracket is for the bracket based 1U design. 
 
 1U Laser Cage is for the card cage design.
 
